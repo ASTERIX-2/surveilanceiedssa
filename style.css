@@ -1,0 +1,23 @@
+body{
+background-size: cover;
+}
+.heading{
+    width:100%;
+    font-size: 25px;
+    margin:0px;
+}
+.startbtn{
+    font-size: 20px;
+}
+#footer{
+    width: 100%;
+    bottom:0;
+    position: fixed;
+    background-color: aqua;
+    line-height: 3;
+    font-size:22.5px;
+}
+canvas{
+    box-shadow: 5px 5px 5px black;
+    border:solid 5px greenyellow;
+}
